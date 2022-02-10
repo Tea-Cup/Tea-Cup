@@ -3,8 +3,8 @@
 - 🤖 Favorite languages: C# (plain/WPF/CIL), TypeScript (node/react).
 - 👁 Also have some knowledge of: JS, F#, Perl, Java, C/C++.
 - 🧠 Excited to someday learn: Ruby, ASM.
-- 🌱 I’m currently working on a private live-stream website to watch things together with friends.
+- 🌱 I’m currently working on an SRD for Seven Sea game system.
 - 💞️ I’m looking to collaborate on projects written in TypeScript (node/react) or C# desktop.
 - 🦴 Backlog includes: AL origanizer, file tagger, Discord image management bot.
 - 🛌 Too lazy to upload projects to GH.
-- 📫 How to reach me: @CozyTeacup#4224 on Discord.
+- 📫 How to reach me: @FoxyTeacup#4224 on Discord.
