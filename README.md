@@ -7,4 +7,4 @@
 - 💞️ I’m looking to collaborate on projects written in TypeScript (node/react) or C# desktop.
 - 🦴 Backlog includes: AL origanizer, file tagger, Discord image management bot.
 - 🛌 Too lazy to upload projects to GH.
-- 📫 How to reach me: @FoxyTeacup#4224 on Discord.
+- 📫 How to reach me: @foxyteacup on Discord.
